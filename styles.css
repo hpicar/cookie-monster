@@ -1,0 +1,23 @@
+#title {
+  text-align: center;
+  padding: center;
+}
+#nav-bar {
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  padding-left: center;
+  padding-bottom: 10px;
+  padding-right: center;
+  padding-top: 10px;
+}
+#list1 {
+  list-style-type: none;
+}
+#top {
+  text-align: center;
+  padding-left: center;
+  padding-bottom: 10px;
+  padding-right: center;
+  padding-top: 10px;
+}
